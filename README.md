@@ -26,4 +26,5 @@ sh wallet_env.sh make wallet_app
 sh wallet_env.sh make wallet_project
 ```
 
-*dev can set the  `toncommunity-lite-client.config.json`  as the default config file
+## default config
+* dev can set the  `toncommunity-lite-client.config.json`  as the default config file
